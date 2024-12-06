@@ -6,7 +6,7 @@ I also have experience with Embedded C, industrial approaches and I'm an Electro
 
 🤖 A STEM enthusiast, I am also passionate about Educational Robotics and act as a volunteer judge at FIRST LEGO League tournaments.
 
-🌐 If you'd like to follow a bit more of what I've been doing, feel free to visit my [LinkedIn](https://www.linkedin.com/in/ana-liz-ribeiro-7744b0255/) and [Instagram](https://www.instagram.com/seu-perfil/) profiles. If you want to contact me directly, my email address is analizafribeiro@gmail.com.
+🌐 If you'd like to follow a bit more of what I've been doing, feel free to visit my [LinkedIn](https://www.linkedin.com/in/ana-liz-ribeiro-7744b0255/) and [Instagram](https://www.instagram.com/analizrbr/) profiles. If you want to contact me directly, my email address is analizafribeiro@gmail.com.
 
 
 <!--
