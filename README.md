@@ -1,12 +1,12 @@
-## Hello, everyone! 🤗
+## Hello, World! 🤗
 
-💻 My name is Liz and I'm currently developing apps for the Apple ecosystem (iOS, iPadOS, tvOS and watchOS). In my spare time, I've been exploring a lot of Design Processes and UI/UX Design.
+💻 My name is Liz and I'm currently transitioning my career, exploring the world of UI/UX and Product Design, with a stronger focus on UX.
 
-I also have experience with Embedded C, industrial approaches and I'm an Electronics Technician.
+I have experience developing apps for the Apple ecosystem (iOS, iPadOS, tvOS, and watchOS), as well as working with C, Embedded C, industrial approaches, and Electronics.
 
 🤖 A STEM enthusiast, I am also passionate about Educational Robotics and act as a volunteer judge at FIRST LEGO League tournaments.
 
-🌐 If you'd like to follow a bit more of what I've been doing, feel free to visit my [LinkedIn](https://www.linkedin.com/in/ana-liz-ribeiro-7744b0255/) and [Instagram](https://www.instagram.com/analizrbr/) profiles. If you want to contact me directly, my email address is analizafribeiro@gmail.com.
+🌐 If you'd like to follow a bit more of what I've been doing, feel free to visit my [LinkedIn](https://www.linkedin.com/in/ana-liz-ribeiro-7744b0255/) and [Instagram](https://www.instagram.com/analizrbr/) profiles. If you want to contact me directly, my email address is analizribeiro.work@gmail.com.
 
 
 <!--
